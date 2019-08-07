@@ -1,4 +1,5 @@
 ![Logo](static/logo.png "Logo")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftedkornish%2Fpostgrest.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftedkornish%2Fpostgrest?ref=badge_shield)
 
 [![Build Status](https://circleci.com/gh/begriffs/postgrest.png?style=shield&circle-token=f723c01686abf0364de1e2eaae5aff1f68bd3ff2)](https://circleci.com/gh/begriffs/postgrest/tree/master)
 <a href="https://heroku.com/deploy?template=https://github.com/begriffs/postgrest">
@@ -127,3 +128,7 @@ judgement.  See more details in the
 [changelog](https://github.com/begriffs/postgrest/blob/master/CHANGELOG.md).
 
 The cool logo came from [Mikey Casalaina](https://github.com/casalaina).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftedkornish%2Fpostgrest.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftedkornish%2Fpostgrest?ref=badge_large)
